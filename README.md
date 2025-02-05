@@ -1,4 +1,3 @@
-# DSF-Dibimbing
 # Student Score Prediction
 
 ## 📌 Deskripsi Proyek
